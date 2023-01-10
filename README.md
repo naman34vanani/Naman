@@ -1,2 +1,3 @@
 # Naman
-my first Repository 
+My first Repository.
+This is my first commit.
